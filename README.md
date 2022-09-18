@@ -1,1 +1,1 @@
-![Alt text](./readme/blackpinkCover.jpf?raw=true "Title")
+![BlackPink Cover](./readme/blackpinkCover.jpg?raw=true "Title")
